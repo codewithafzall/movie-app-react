@@ -44,7 +44,7 @@ const changeHandler=(e)=>{
   return (
     <div>
       <section>
-      <Navbar expand="lg" className="py-4 fixed-top" bg='dark'>
+      <Navbar expand="lg" className="py-4 fixed-top" bg='light'>
       <Container fluid>
         <Navbar.Brand className='logo ms-3' href="#">MOVIES 4 YOU</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
